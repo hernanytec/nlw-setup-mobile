@@ -6,6 +6,8 @@ import {
   useFonts,
 } from '@expo-google-fonts/inter';
 import { StatusBar } from 'react-native';
+import './src/lib/dayjs';
+
 import { Loading } from './src/components/Loading';
 import { Home } from './src/screens/Home';
 
